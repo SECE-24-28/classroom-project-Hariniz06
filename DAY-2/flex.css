@@ -1,0 +1,24 @@
+*{
+    margin:0;
+}
+.ol{
+    display:flex;
+    justify-content:space-around;
+    list-style-type:none ;
+    font-size: larger ;
+}
+header{
+    background-color: rgb(194, 131, 210);
+    color:black;
+    padding:10px;
+}
+.li{
+    text-decoration:none;
+    color:white;
+    padding:6px;
+}
+.li:hover{
+    color:black;
+    background-color: white;
+    border-radius: 5px;
+}
